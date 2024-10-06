@@ -1,4 +1,4 @@
-# connorthefan.github.io
+# <a href="connorthefan.github.io"> Website </a>
 
 Welcome to my website! This is planned to be a portal to any and all of my personal projects.
 
